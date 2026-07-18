@@ -34,4 +34,4 @@ python solar_system.py
 ```
 
 ## 📄 Contact & Citation
-If you utilize this framework or its data verification pipelines in your independent research, please cite the core manuscript. For mathematical inquiries or project collaboration, contact **mabuza.mishack@gmail.com**.
+If you utilize this framework or its data verification pipelines in your independent research, please cite the core manuscript. For mathematical inquiries or project collaboration, contact **14689561@mylife.unisa.ac.za**.
